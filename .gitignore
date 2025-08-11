@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.DS_Store
+.env
+chromadb/
+chroma_data/
+*.log
+*.egg-info/
+.cache/
+.vscode/
+.idea/
+*.swp
